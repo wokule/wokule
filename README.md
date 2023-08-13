@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wokule
-- 👀 I’m interested in ML&Federated Learning
+- 👀 I’m interested in ML.
 - 🌱 I’m currently learning CTF& ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
